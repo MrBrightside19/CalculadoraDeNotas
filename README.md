@@ -1,7 +1,7 @@
 
 # Calculadora de notas
 
-Un proyecto realizado con el fin de ayudar a aquellos estudiantes a bajar esa terrible ansiedad al no conocer que notas necesitan para salvar aquel ramo que tantas horas de sueño les hacer perder y cuantos "Padres Nuestros" les hace recitar antes de los certamenes
+Un proyecto realizado con el fin de ayudar a aquellos estudiantes a bajar esa terrible ansiedad al no conocer que notas necesitan para salvar aquel ramo que tantas horas de sueño les hace perder y cuantos "Padres Nuestros" les hace recitar antes de los certamenes
 
 
 
